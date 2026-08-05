@@ -23,5 +23,4 @@ Random Forest Classifier
 
 ## Author
 
-Ramya  
-GitHub: https://github.com/Ramya906396
+Kurupudi Ramya  
